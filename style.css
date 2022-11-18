@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.btns{
+    position: relative;
+    min-width: 1230px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem auto;
+    padding-top: 28rem;
+
+}
+
+.start{
+    padding: 10px 10px;
+}
+
+.stop{
+    padding: 10px 10px;
+}
